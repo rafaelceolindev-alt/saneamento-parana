@@ -1,10 +1,12 @@
 # Banco do SNIS - Perguntas de Trabalho
 
-A seguir, estão 6 perguntas-chave sobre o banco do SNIS que vamos utilizar no projeto:
+A seguir, estão perguntas-chave sobre o banco do SNIS que vamos utilizar no projeto:
 
-1. Quais indicadores de saneamento básico do SNIS são mais relevantes para o contexto do Paraná?
-2. Como a base de dados do SNIS está estruturada e quais tabelas/colunas são essenciais para a análise?
-3. Quais municípios do Paraná apresentam os maiores desafios em coleta e tratamento de esgoto?
-4. Como comparar os dados do SNIS ao longo do tempo para identificar tendências e evolução dos serviços de saneamento?
-5. Quais variáveis de infraestrutura e desempenho operacional podem explicar as diferenças entre municípios?
-6. Quais insights podem ser gerados a partir do SNIS para apoiar decisões de políticas públicas e gestão de saneamento?
+1. No ritmo atual o Paraná consegue chegar a meta até 2033?
+2. Quais municípios do Paraná estão mais distantes da meta de 90% de atendimento de esgoto que o Marco Legal exige até 2033?
+3. Municípios atendidos pela Sanepar têm desempenho diferente dos atendidos por autarquias municipais (SAMAE/SAAE) em perdas, hidrometração e esgoto?
+4. Qual a evolução do volume perdido vs o produzido nos últimos 10 anos e a perspectiva para 2033?
+5. Qual o investimento por habitante entre 2013 e 2022?
+
+
+
